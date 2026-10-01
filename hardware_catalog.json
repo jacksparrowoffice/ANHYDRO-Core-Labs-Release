@@ -1,0 +1,27 @@
+{
+    "company": "ANHYDRO_CORE_LABS",
+    "business_model": "Fabless Silicon IP Licensing & Royalties",
+    "supported_architectures": {
+        "SHAKTI_HPC": {
+            "type": "RISC-V Pipelined Processor",
+            "base_voltage_volts": 0.60,
+            "target_channel_material": "Monolayer MoS2",
+            "scalability_range": "1 to 256 Cores"
+        },
+        "ANHYDRO_TENSOR_GPU": {
+            "type": "Parallel Matrix Accelerator",
+            "power_optimization": "Integrated Clock Gating (ICG) Latch Cells",
+            "target_workload": "Edge AI & High-FPS Vision Computing"
+        },
+        "ENTERPRISE_AMD_GRID": {
+            "type": "Data Center Compute Complexes",
+            "resource_solving": "Dynamic Regex Electricity & Cooling Capacity Balancing",
+            "maximum_thermal_tdp": "Enforced by prompt allocation"
+        },
+        "QUANTUM_SPIN_MATRIX": {
+            "type": "Topological Spin Qubit Accelerator",
+            "operating_temperature_kelvin": 1.5,
+            "control_pulse_energy_fj": 0.05
+        }
+    }
+}
